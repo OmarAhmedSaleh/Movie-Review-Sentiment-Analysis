@@ -1,5 +1,7 @@
 # Movie-Review-Sentiment-Analysis
-This program prompts the user to type in a movie review, and predicts the sentiment of the review (negative, somewhat negative, neutral, etc). The analysis is based on data from past Rotten Tomatoes movie reviews. 
+
+## This program prompts the user to type in a movie review, and predicts the sentiment of the review (negative, somewhat negative, neutral, etc). The analysis is based on data from past Rotten Tomatoes movie reviews.
+
 
 
 Development environment: ubuntu
@@ -8,8 +10,6 @@ Development environment: ubuntu
 2. `make clean` clears files.
 
 
-
-## This program prompts the user to type in a movie review, and predicts the sentiment of the review (negative, somewhat negative, neutral, etc). The analysis is based on data from past Rotten Tomatoes movie reviews.
 
 
 #### My Program:
